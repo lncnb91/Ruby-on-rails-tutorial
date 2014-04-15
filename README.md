@@ -1,2 +1,2 @@
-Ruby-on-rails-tutorial
+Ruby-on-rails-tutorial: first application
 ======================
