@@ -37,4 +37,3 @@ gem 'jbuilder', '~> 2.0'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 #ruby-gemset=railstutorial_rails_4_0
-#haha
